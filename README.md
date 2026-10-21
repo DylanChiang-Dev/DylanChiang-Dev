@@ -9,8 +9,6 @@
 理解人的行為，打造有用的 AI。
 
 - **博士生** · 復旦大學大數據學院智能科學與技術／[Fudan DISC](http://www.fudan-disc.com/)
-- **理事長** · 中華 AI 應用發展協會（CAIADA）
-- **程序主席** · [SocioVerse Challenge 2026](https://dylanchiang-dev.github.io/service/socioverse-challenge-2026/)
 
 關注 **自然語言處理與大型語言模型、計算社會科學、以人為本的人工智慧**。我把社會科學的問題意識帶進 AI 研究，也為研究與知識工作開發實用工具。
 
